@@ -1,0 +1,17 @@
+.texto_inicial h3{
+    padding: 15px;
+}
+
+.texto_inicial__titulo{
+    padding: 25px;
+    font-family: 'Lilita One', cursive;
+}
+
+.texto_inicial__texto{
+    margin: 15px 15px;
+    padding: 40px;
+    background-color: rgba(0, 0, 0, 0.3);
+    box-shadow: -5px -5px 15px #121212;
+    border-radius: 15px;
+    font-family: 'Lilita One', cursive;
+}
